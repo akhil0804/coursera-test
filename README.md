@@ -23,4 +23,4 @@ Tis files uses TK-inter, to create a gui interface for python each function of b
 2. train - which calls the second file face_train.py which uses algorithm like fisherface,eigenface is converted into numpy array and stored in a yml file.
 3. identify - which calls the third file kkk.py which uses the yml file created during the training, with the confidence matrix it helps identify the person 
               if its in the yml file else it shows unkown label to that face.
- 4. quit- this fuction is used to get out of the running gui interace.
+4. quit- this fuction is used to get out of the running gui interface.
